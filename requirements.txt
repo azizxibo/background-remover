@@ -1,2 +1,7 @@
 rembg==2.0.56
 streamlit==1.33.0
+io
+zipfile
+pathlib
+PIL
+uuid
